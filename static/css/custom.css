@@ -1,0 +1,17 @@
+.intro-header .page-heading h1 {
+    font-size: 50px;
+}
+
+.material-icons.success {
+    color: #49d549;
+    position: relative;
+    bottom: -4px;
+}
+
+.material-icons.failure {
+    color: #d13939;
+    position: relative;
+    bottom: -4px;
+}
+
+

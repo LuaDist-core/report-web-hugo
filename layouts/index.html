@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div role="main" class="container">
+
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<table>
+{{ $.Scratch.Set "packageCount" 0 }}
+
+{{ range $package, $data := $.Site.Data.packages }}
+  {{ if eq ($.Scratch.Get "packageCount") 0 }}
+    {{ $.Scratch.Add "packageCount" 1 }}
+    <tr>
+      <th></th>
+      {{ range $data }}
+      <th colspan="{{ len .versions }}">{{ .name }}</th>
+      {{ end }}
+    </tr>
+
+    <tr>
+      <th>Package</th>
+      {{ range $data }}
+      {{ range .versions }}
+      <th>{{ .version }}</th>
+      {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+
+  <tr>
+    <td>{{ $package }}</td>
+    {{ range $platformID, $value := $data }}
+      {{ range $value.versions }}
+        <td class="center">
+          <a href="{{ $.Site.BaseURL }}packages/{{$package}}/{{$platformID}}/{{.version}}/install">
+            {{ if .success }}
+              <i class="package-indicator material-icons success">check_circle</i>
+            {{ else }}
+              <i class="package-indicator material-icons failure">cancel</i>
+            {{ end }}
+          </a>
+        </td>
+      {{ end }}
+    {{ end }}
+  </tr>
+{{ end }}
+
+</table>
+
+{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+  {{ range $paginator.Pages }}
+    {{ .Render "summary" }}
+{{ end }}
+
+
+</div>
+
+</div>
+
+{{ end }}
+
