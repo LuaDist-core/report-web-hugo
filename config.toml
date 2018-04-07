@@ -1,4 +1,4 @@
-baseurl = "/hugo-test/"
+baseurl = "http://milanvasko.github.io/hugo-test/"
 title = "LuaDist2 Packages"
 copyright = "Copyright (c) 2017, all rights reserved."
 canonifyurls = true
