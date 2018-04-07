@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Packages on LuaDist2 Packages</title>
-    <link>/packages/</link>
+    <link>/hugo-test/packages/</link>
     <description>Recent content in Packages on LuaDist2 Packages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights reserved.</copyright>
     
-	<atom:link href="/packages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hugo-test/packages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/packages/luacheck/linux/5.1.5-1/install/</link>
+      <link>/hugo-test/packages/luacheck/linux/5.1.5-1/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/packages/luacheck/linux/5.1.5-1/install/</guid>
+      <guid>/hugo-test/packages/luacheck/linux/5.1.5-1/install/</guid>
       <description>Report for &amp;lsquo;install lua 5.1.5-1 luacheck&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
  Manifest URLs:
  git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
@@ -25,10 +25,10 @@
     
     <item>
       <title></title>
-      <link>/packages/luacheck/linux/5.2.4-1/install/</link>
+      <link>/hugo-test/packages/luacheck/linux/5.2.4-1/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/packages/luacheck/linux/5.2.4-1/install/</guid>
+      <guid>/hugo-test/packages/luacheck/linux/5.2.4-1/install/</guid>
       <description>Report for &amp;lsquo;install lua 5.2.4-1 luacheck&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
  Manifest URLs:
  git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
@@ -37,10 +37,10 @@
     
     <item>
       <title></title>
-      <link>/packages/luacheck/linux/5.3.2/install/</link>
+      <link>/hugo-test/packages/luacheck/linux/5.3.2/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/packages/luacheck/linux/5.3.2/install/</guid>
+      <guid>/hugo-test/packages/luacheck/linux/5.3.2/install/</guid>
       <description>Report for &amp;lsquo;install lua 5.3.2 luacheck&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
  Manifest URLs:
  git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
@@ -49,10 +49,10 @@
     
     <item>
       <title></title>
-      <link>/packages/xml/linux/5.1.5-1/install/</link>
+      <link>/hugo-test/packages/xml/linux/5.1.5-1/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/packages/xml/linux/5.1.5-1/install/</guid>
+      <guid>/hugo-test/packages/xml/linux/5.1.5-1/install/</guid>
       <description>Report for &amp;lsquo;install lua 5.1.5-1 xml&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
  Manifest URLs:
  git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
@@ -61,10 +61,10 @@
     
     <item>
       <title></title>
-      <link>/packages/xml/linux/5.2.4-1/install/</link>
+      <link>/hugo-test/packages/xml/linux/5.2.4-1/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/packages/xml/linux/5.2.4-1/install/</guid>
+      <guid>/hugo-test/packages/xml/linux/5.2.4-1/install/</guid>
       <description>Report for &amp;lsquo;install lua 5.2.4-1 xml&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
  Manifest URLs:
  git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
@@ -73,10 +73,10 @@
     
     <item>
       <title></title>
-      <link>/packages/xml/linux/5.3.2/install/</link>
+      <link>/hugo-test/packages/xml/linux/5.3.2/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/packages/xml/linux/5.3.2/install/</guid>
+      <guid>/hugo-test/packages/xml/linux/5.3.2/install/</guid>
       <description>Report for &amp;lsquo;install lua 5.3.2 xml&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
  Manifest URLs:
  git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
