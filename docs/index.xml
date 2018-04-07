@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LuaDist2 Packages</title>
+    <link>/</link>
+    <description>Recent content on LuaDist2 Packages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2017, all rights reserved.</copyright>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/packages/luacheck/linux/5.1.5-1/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/luacheck/linux/5.1.5-1/install/</guid>
+      <description>Report for &amp;lsquo;install lua 5.1.5-1 luacheck&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
+ Manifest URLs:
+ git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
+  2. Dependency solving Resolved dependencies:  lua 5.1.5-1 luafilesystem 1.6.3-2 luacheck 0.16.1-1  3. Fetching packages  lua 5.1.5-1  remote: git://github.com/LuaDist-core/lua.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.1.5-1/tmp/lua 5.1.5-1  luafilesystem 1.6.3-2  remote: git://github.com/LuaDist2/luafilesystem.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.1.5-1/tmp/luafilesystem 1.6.3-2  luacheck 0.16.1-1  remote: git://github.com/LuaDist2/luacheck.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.1.5-1/tmp/luacheck 0.16.1-1   4.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/packages/luacheck/linux/5.2.4-1/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/luacheck/linux/5.2.4-1/install/</guid>
+      <description>Report for &amp;lsquo;install lua 5.2.4-1 luacheck&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
+ Manifest URLs:
+ git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
+  2. Dependency solving Resolved dependencies:  lua 5.2.4-1 luafilesystem 1.6.3-2 luacheck 0.16.1-1  3. Fetching packages  lua 5.2.4-1  remote: git://github.com/LuaDist-core/lua.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.2.4-1/tmp/lua 5.2.4-1  luafilesystem 1.6.3-2  remote: git://github.com/LuaDist2/luafilesystem.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.2.4-1/tmp/luafilesystem 1.6.3-2  luacheck 0.16.1-1  remote: git://github.com/LuaDist2/luacheck.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.2.4-1/tmp/luacheck 0.16.1-1   4.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/packages/luacheck/linux/5.3.2/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/luacheck/linux/5.3.2/install/</guid>
+      <description>Report for &amp;lsquo;install lua 5.3.2 luacheck&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
+ Manifest URLs:
+ git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
+  2. Dependency solving Resolved dependencies:  lua 5.3.2-1 luafilesystem 1.6.3-2 luacheck 0.16.1-1  3. Fetching packages  lua 5.3.2-1  remote: git://github.com/LuaDist-core/lua.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.3.2/tmp/lua 5.3.2-1  luafilesystem 1.6.3-2  remote: git://github.com/LuaDist2/luafilesystem.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.3.2/tmp/luafilesystem 1.6.3-2  luacheck 0.16.1-1  remote: git://github.com/LuaDist2/luacheck.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.3.2/tmp/luacheck 0.16.1-1   4.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/packages/xml/linux/5.1.5-1/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/xml/linux/5.1.5-1/install/</guid>
+      <description>Report for &amp;lsquo;install lua 5.1.5-1 xml&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
+ Manifest URLs:
+ git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
+  2. Dependency solving Resolved dependencies:  lua 5.1.5-1 luafilesystem 1.6.3-2 lub 1.1.0-1 xml 1.1.3-1  3. Fetching packages  lua 5.1.5-1  remote: git://github.com/LuaDist-core/lua.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.1.5-1/tmp/lua 5.1.5-1  luafilesystem 1.6.3-2  remote: git://github.com/LuaDist2/luafilesystem.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.1.5-1/tmp/luafilesystem 1.6.3-2  lub 1.1.0-1  remote: git://github.com/LuaDist2/lub.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.1.5-1/tmp/lub 1.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/packages/xml/linux/5.2.4-1/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/xml/linux/5.2.4-1/install/</guid>
+      <description>Report for &amp;lsquo;install lua 5.2.4-1 xml&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
+ Manifest URLs:
+ git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
+  2. Dependency solving Resolved dependencies:  lua 5.2.4-1 luafilesystem 1.6.3-2 lub 1.1.0-1 xml 1.1.3-1  3. Fetching packages  lua 5.2.4-1  remote: git://github.com/LuaDist-core/lua.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.2.4-1/tmp/lua 5.2.4-1  luafilesystem 1.6.3-2  remote: git://github.com/LuaDist2/luafilesystem.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.2.4-1/tmp/luafilesystem 1.6.3-2  lub 1.1.0-1  remote: git://github.com/LuaDist2/lub.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.2.4-1/tmp/lub 1.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/packages/xml/linux/5.3.2/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/xml/linux/5.3.2/install/</guid>
+      <description>Report for &amp;lsquo;install lua 5.3.2 xml&amp;rsquo; 1. Manifest retrieval  Downloading manifest&amp;hellip;
+ Manifest URLs:
+ git://github.com/LuaDist-core/manifest.git git://github.com/LuaDist2/manifest.git  Success
+  2. Dependency solving Resolved dependencies:  lua 5.3.2-1 luafilesystem 1.6.3-2 lub 1.1.0-1 xml 1.1.3-1  3. Fetching packages  lua 5.3.2-1  remote: git://github.com/LuaDist-core/lua.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.3.2/tmp/lua 5.3.2-1  luafilesystem 1.6.3-2  remote: git://github.com/LuaDist2/luafilesystem.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.3.2/tmp/luafilesystem 1.6.3-2  lub 1.1.0-1  remote: git://github.com/LuaDist2/lub.git local: /home/travis/build/LuaDist2-testing/_luadist_install/lua 5.3.2/tmp/lub 1.</description>
+    </item>
+    
+  </channel>
+</rss>

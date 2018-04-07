@@ -1,9 +1,3 @@
-#baseURL = "http://example.org/"
-#languageCode = "en-us"
-#title = "My New Hugo Site"
-#theme = "hugo-dusk"
-
-
 baseurl = "/"
 title = "LuaDist2 Packages"
 copyright = "Copyright (c) 2017, all rights reserved."
@@ -11,4 +5,5 @@ canonifyurls = true
 languageCode = "en-US"
 paginate = 3
 theme = "beautifulhugo"
+publishDir = "docs"
 
