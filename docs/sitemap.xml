@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/packages/luacheck/linux/5.1.5-1/install/</loc>
+    <loc>/hugo-test/packages/luacheck/linux/5.1.5-1/install/</loc>
   </url>
   
   <url>
-    <loc>/packages/luacheck/linux/5.2.4-1/install/</loc>
+    <loc>/hugo-test/packages/luacheck/linux/5.2.4-1/install/</loc>
   </url>
   
   <url>
-    <loc>/packages/luacheck/linux/5.3.2/install/</loc>
+    <loc>/hugo-test/packages/luacheck/linux/5.3.2/install/</loc>
   </url>
   
   <url>
-    <loc>/packages/xml/linux/5.1.5-1/install/</loc>
+    <loc>/hugo-test/packages/xml/linux/5.1.5-1/install/</loc>
   </url>
   
   <url>
-    <loc>/packages/xml/linux/5.2.4-1/install/</loc>
+    <loc>/hugo-test/packages/xml/linux/5.2.4-1/install/</loc>
   </url>
   
   <url>
-    <loc>/packages/xml/linux/5.3.2/install/</loc>
+    <loc>/hugo-test/packages/xml/linux/5.3.2/install/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/hugo-test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/hugo-test/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/packages/</loc>
+    <loc>/hugo-test/packages/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/hugo-test/tags/</loc>
     <priority>0</priority>
   </url>
   
